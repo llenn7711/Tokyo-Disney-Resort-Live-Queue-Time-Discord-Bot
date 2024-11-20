@@ -14,8 +14,8 @@
 - [Discord Developer Portal](https://discord.com/developers/applications)よりBotアカウントを作成します。
 
 ### コードの書き換え
-- 10行目 ```TOKEN```を使用したいBotのTokenに置き換えます。
-- 11行目 ```CHANNEL_ID```をメッセージを送信したいチャンネルのチャンネルIDに置き換えます。
+- 10行目：```TOKEN```を使用したいBotのTokenに置き換えます。
+- 11行目：```CHANNEL_ID```をメッセージを送信したいチャンネルのチャンネルIDに置き換えます。
   
 ### インストール
 - Python 3.x
